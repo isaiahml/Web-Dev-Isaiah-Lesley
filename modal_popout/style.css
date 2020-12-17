@@ -18,7 +18,7 @@ body{
     border-bottom: 2px solid #c0392b;
     cursor: pointer;
     
-    &:hover{
+    &:hover {
       background: #c0392b;
     }
     
